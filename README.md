@@ -298,10 +298,7 @@ try (ObjectInputStream ois =
 
 ---
 
-## 📞 CONTACT
-
 Ahmad Husnul Fudoli
-NIM: 24131310006
 
 ---
 
