@@ -1,8 +1,7 @@
 # PANDUAN LENGKAP
 ## Game Edukasi Matematika - Java Version
 
-### Informasi Mahasiswa
-- **Nama**: Ahmad Husnul Fudoli
+### Informasi dibuat 
 - **Tanggal**: 14 Februari 2026
 
 ---
